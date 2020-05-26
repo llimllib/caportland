@@ -6,10 +6,6 @@ We want to create a social group for people in and around tech, from all backgro
 
 We're not an outreach or an educational group, although both are important to us, we're primarily a technology related meetup, but with a code of conduct.
 
-If you want to start your own meetup, fork and open a pull request. We also love feedback and translations.
-
-Meeting pages and changes will almost always get merged straight away, but other changes take time.
-
 ## Writing Guidelines
 
 - We want to be explicit, not implicit, but we want to avoid special cases and lists where possible.
@@ -18,7 +14,5 @@ Meeting pages and changes will almost always get merged straight away, but other
 - Smaller changes to the Rules have a higher chance of success, Larger changes take more discussion. Edit one line at a time.
 - The Code of Conduct is not a solution to people's behavior, but it's about admitting there is a problem. 
 - Please avoid gendered language. This means don't use "guys", "guys and gals", "dude". We suggest "meatbags", "people", "peeps" or "folks".
-
-
 
 All content and contributions are licensed under CC0.
