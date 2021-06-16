@@ -1,11 +1,12 @@
 Heya and Welcome! A bit of a virtual tour (constructed/edited by a number of members).
-#general and #random are really both random, with the distinction that #general is where we organize meetups when it’s not a pandemic out there
+#general and #random are really catch-all chat locations, with the distinction that #general is where we organize meetups (poll for date a few weeks in advance, than location a week in advance—next meetup plans are updated in the channel description)
 #politics is very active
 #covid19 is quite topical, discuss current science, and daily case number reporting for Maine
-#food, it’s spin-off #baking, and #booze (to keep food reasonably alcohol-free) are very popular and full of people with very firm opinions on these topics
+#food, it’s spin-off #baking, and #booze (to keep food reasonably alcohol-free) are very popular and full of people with very firm opinions on these topics (grilled cheese is a consistent hot button issue)
 #weather because it’s New England and we can’t not talk about weather and Keith Carson’s tweets
 #homeowners for discussion of things related to taking care of properties
 #local-services, #local-gear, #local-tech-jobs are very useful places to holler for recommendations or referrals. A recommendation spreadsheet is linked from the topic of #local-services.
+#local-lunches for posting when you're out and about for lunch or post-work and you want to meet up
 #finance is for personal finance chat/learnings, and #business is for the business owners among us
 #simcity and #portland_flag are arguably where we have the most fun, because fun is nerding out about design, urban density, and making fun of SOBs
 There’s also a few #code related channels, but for an ostensibly tech-related slack chat, we aren’t all *that* active anywhere about tech. 
