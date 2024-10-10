@@ -1,7 +1,7 @@
 Heya and Welcome! A bit of a virtual tour (constructed/edited by a number of members).
 #general and #random are really catch-all chat locations, with the distinction that #general is where we organize meetups (poll for date a few weeks in advance, than location a week in advance—next meetup plans are updated in the channel description)
 #politics is very active
-#covid19 is quite topical, discuss current science, and daily case number reporting for Maine
+#public-health is discusses current science and outbreak reporting for Maine on a variety of diseases/concerns
 #food, it’s spin-off #baking, and #booze (to keep food reasonably alcohol-free) are very popular and full of people with very firm opinions on these topics (grilled cheese is a consistent hot button issue)
 #weather because it’s New England and we can’t not talk about weather and Keith Carson’s tweets
 #homeowners for discussion of things related to taking care of properties
