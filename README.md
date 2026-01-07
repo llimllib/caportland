@@ -1,8 +1,8 @@
 ## Computer Anonymous
 
-A meeting for people who don't know what they are doing on computer. The ideals and rules of the meetup are documented in index.html. 
+A meeting for people who don't know what they are doing on computer. The ideals and rules of the meetup are documented in index.html.
 
-We want to create a social group for people in and around tech, from all backgrounds, where they feel comfortable and welcome. 
+We want to create a social group for people in and around tech, from all backgrounds, where they feel comfortable and welcome.
 
 We're not an outreach or an educational group, although both are important to us, we're primarily a technology related meetup, but with a code of conduct.
 
@@ -12,7 +12,16 @@ We're not an outreach or an educational group, although both are important to us
 - We want to avoid both slang and jargon, especially in the rules. We want to be conversational, not bureaucratic or formal in tone.
 - We have a complexity budget, we cannot make an exhaustive set of rules, and we have to translate things so the less words the better.
 - Smaller changes to the Rules have a higher chance of success, Larger changes take more discussion. Edit one line at a time.
-- The Code of Conduct is not a solution to people's behavior, but it's about admitting there is a problem. 
+- The Code of Conduct is not a solution to people's behavior, but it's about admitting there is a problem.
 - Please avoid gendered language. This means don't use "guys", "guys and gals", "dude". We suggest "meatbags", "people", "peeps" or "folks".
 
 All content and contributions are licensed under CC0.
+
+## Running the thing
+
+The page is HTML, but it uses jekyll minimally because that's the github pages default. Assuming you have ruby installed, you can serve the page with
+
+```bash
+gem install bundler jekyll
+bundle exec jekyll serve
+```
